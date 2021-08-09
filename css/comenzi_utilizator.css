@@ -1,0 +1,30 @@
+h1 {
+	color: #663300;
+	font-family: 'Amatic SC';
+	font-size: 100px;
+	text-align: center;
+	} 
+
+
+
+ .wrapper{
+            margin: 0 auto;
+        }
+        table tr td:last-child{
+            width: 120px;
+        }
+.table1{
+ border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+	color: black;
+	border-collapse: collapse;
+  width: 100%;
+}
+.align{
+  text-align:center; border: 2px solid #663300;border-radius:20px;width:30%; margin:auto;
+}
+@media screen and (max-width: 500px) {
+ .align{
+  width: 20%;
+ }

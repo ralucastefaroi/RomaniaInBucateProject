@@ -1,0 +1,17 @@
+h1 {
+	color: #663300;
+	font-family: 'Amatic SC';
+	font-size: 100px;
+	text-align: center;
+	} 
+	
+	.wrapper{
+            width: 600px;
+            margin: 0 auto;
+            color: black;
+        }
+
+h2{
+	text-align: center;
+	color: #994d00;
+}

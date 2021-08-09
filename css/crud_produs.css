@@ -1,0 +1,36 @@
+h1 {
+	color: #663300;
+	font-family: 'Amatic SC';
+	font-size: 100px;
+	text-align: center;
+	} 
+
+body{
+  background-color: #e6ccb3;
+	color: #994d00;
+}
+ .wrapper{
+            margin: 0 auto;
+        }
+        table tr td:last-child{
+            width: 120px;
+        }
+.table1{
+ border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+	color: black;
+	border-collapse: collapse;
+  width: 100%;
+}
+
+/*th, td {
+	border-collapse:collapse;
+	border: 1px solid black;}
+	tr:nth-child(even) {
+  background-color: #dddddd;
+}
+	fa-trash{
+		color: #663300;
+	}
+	*/

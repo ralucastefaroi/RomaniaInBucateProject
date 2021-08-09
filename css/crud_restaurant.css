@@ -1,0 +1,17 @@
+h1 {
+	color: #663300;
+	font-family: 'Amatic SC';
+	font-size: 100px;
+	text-align: center;
+	} 
+
+ .wrapper{
+            margin: 0 auto;
+        }
+table tr td:last-child{
+            width: 120px;
+        }
+
+.btn{
+	background-color:#663300;
+}

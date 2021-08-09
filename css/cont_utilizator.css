@@ -1,0 +1,22 @@
+h1 {
+	color: #663300;
+	font-family: 'Amatic SC';
+	font-size: 80px;
+	text-align: center;
+	} 
+
+/*form{
+margin: 0 auto; 
+}
+*/
+body{
+  background-color: #e6ccb3;
+	
+}
+
+#admin{
+	text-align: center;
+	font-family: 'Open Sans';
+	color: #994d00;
+	font-size: 40px;
+}

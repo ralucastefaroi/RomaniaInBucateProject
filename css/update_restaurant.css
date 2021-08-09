@@ -1,0 +1,28 @@
+h1 {
+	color: #663300;
+	font-family: 'Amatic SC';
+	font-size: 120px;
+	text-align: center;
+	} 
+	.wrapper{
+            width: 600px;
+            margin: 0 auto;
+            color: black;
+        }
+
+h2{
+	text-align: center;
+	color: #994d00;
+}
+
+#btn {
+		background-color: #e6ccb3;
+		color:#663300;
+		border: none;
+		border-radius: 10%;
+}
+
+#back{
+	text-decoration: none;
+	color:#663300;
+}

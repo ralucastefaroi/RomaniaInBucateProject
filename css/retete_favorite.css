@@ -1,0 +1,25 @@
+h1{
+	text-align: center;
+	margin-bottom: 50px;
+text-align: center;font-family: 'Open Sans';color: #663300;
+}
+#btn {background-color: #663300;color:#e6ccb3; border: none;border-radius: 10px;}
+#back{text-decoration: none;color:#e6ccb3;padding: 10px;font-family: 'Open Sans';font-size: 15px;}
+.all{display:flex; flex-direction:row; flex-wrap:wrap; justify-content: space-between;margin: 0 auto; width: 90%;}
+.cartonas{width:26%; display: flex; flex-direction:column; }
+body{background-color: #e6ccb3;}
+.restaurante{
+  color:#663300;
+  text-align: center;
+  font-family: 'Amatic SC';
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 50px;
+  margin-top: -8px;
+}
+a{
+	text-decoration: none;
+}
+img{border-radius: 10%;}
+#remove{margin-top: -35px; cursor:pointer;
+border:none;background-color: #e6ccb3;}
